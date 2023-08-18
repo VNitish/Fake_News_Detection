@@ -2,13 +2,14 @@
 
 This repository contains a Python script for detecting fake news using a text classification model. The model is built using TensorFlow and Keras libraries and is trained to classify news articles as either "True" or "False" based on their content.
 
+## Files used in the project are mentioned below in the drive link:
+https://drive.google.com/drive/folders/1y9vjNJqVICQ70WTd-OJVXrOh-oVXncT3?usp=sharing
+
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Setup](#setup)
 - [Usage](#usage)
 - [Results](#results)
-- [License](#license)
 
 ## Introduction
 
